@@ -1,4 +1,4 @@
-# Mlaku-Mlaku-Frontend
+# Mlaku-Mlaku-Frontend Screenshots
 Just another open trip application
 ![Screenshot (319)](https://user-images.githubusercontent.com/68942070/133910582-eb5e60ac-88fb-49d8-b5f8-ae9c29ba20a1.png)
 ![Screenshot (320)](https://user-images.githubusercontent.com/68942070/133910584-f1998502-78e5-4c24-b154-a0d0bc155b0c.png)
